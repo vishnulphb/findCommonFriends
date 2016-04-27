@@ -1,0 +1,7 @@
+c:\users\vishnu\documents\visual studio 2015\Projects\findCommonFriends\findCommonFriends\bin\Debug\findCommonFriends.exe.config
+c:\users\vishnu\documents\visual studio 2015\Projects\findCommonFriends\findCommonFriends\bin\Debug\findCommonFriends.exe
+c:\users\vishnu\documents\visual studio 2015\Projects\findCommonFriends\findCommonFriends\bin\Debug\findCommonFriends.pdb
+c:\users\vishnu\documents\visual studio 2015\Projects\findCommonFriends\findCommonFriends\obj\Debug\findCommonFriends.csprojResolveAssemblyReference.cache
+c:\users\vishnu\documents\visual studio 2015\Projects\findCommonFriends\findCommonFriends\obj\Debug\findCommonFriends.exe
+c:\users\vishnu\documents\visual studio 2015\Projects\findCommonFriends\findCommonFriends\obj\Debug\findCommonFriends.pdb
+c:\users\vishnu\documents\visual studio 2015\Projects\findCommonFriends\findCommonFriends\bin\Debug\test.txt
